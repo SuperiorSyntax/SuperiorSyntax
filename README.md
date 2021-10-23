@@ -2,7 +2,7 @@ Hello there! 👋
 ------------------
 I am SuperiorSyntax🧑
 ------------------
-I am a Web Developer and an App Developer 🖥
+I am a Web Developer and a Java, Lua programmer🖥
 ------------------
 My favourite programming languages are Java☕and Lua🌑
 ------------------
